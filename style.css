@@ -72,6 +72,7 @@ body{
     border: none;
     padding: 10px;
     cursor: pointer;
+    font-size:20px;
 }
 
 .prev-button {
@@ -111,7 +112,7 @@ body{
 }
 .banner_button{
     position: relative;
-    bottom: 470px;
+    bottom: 350px;
     color:white;
     cursor: pointer ;
     border: none;
